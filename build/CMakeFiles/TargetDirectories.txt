@@ -1,0 +1,6 @@
+/home/emanuelf/Documents/fall22_csc656/sum_harness_instructional/build/CMakeFiles/benchmark.dir
+/home/emanuelf/Documents/fall22_csc656/sum_harness_instructional/build/CMakeFiles/sum_direct.dir
+/home/emanuelf/Documents/fall22_csc656/sum_harness_instructional/build/CMakeFiles/sum_vector.dir
+/home/emanuelf/Documents/fall22_csc656/sum_harness_instructional/build/CMakeFiles/sum_indirect.dir
+/home/emanuelf/Documents/fall22_csc656/sum_harness_instructional/build/CMakeFiles/edit_cache.dir
+/home/emanuelf/Documents/fall22_csc656/sum_harness_instructional/build/CMakeFiles/rebuild_cache.dir
